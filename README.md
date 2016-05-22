@@ -34,8 +34,6 @@ git commit -m 'MINOR: adding upgrade-path :)'
 sake dev/tasks/UpgradePath
 ```
 
-## misc
+## MISC: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/upgrade-path/issues), [Contributing](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/license.md)
 
 made with :coffee:
-
-[:sunny:](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/license.md)
