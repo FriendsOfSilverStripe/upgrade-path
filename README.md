@@ -9,7 +9,7 @@
 [![Total Downloads](https://poser.pugx.org/FriendsOfSilverStripe/upgrade-path/downloads.svg)](https://packagist.org/packages/FriendsOfSilverStripe/upgrade-path)
 [![License](https://poser.pugx.org/FriendsOfSilverStripe/upgrade-path/license.svg)](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/license.md)
 
-## installation
+### installation
 
 Choose, adjust and run:
 
@@ -30,12 +30,12 @@ git commit -m 'MINOR: adding upgrade-path :)'
 
 **It is recommendated to install this only as dev dependency!**
 
-## usage
+### usage
 
 ```bash
 sake dev/tasks/UpgradePath
 ```
 
-## MISC: [Future ideas/development, issues](https://github.com/FriendsOfSilverStripe/upgrade-path/issues), [Contributing](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/CONTRIBUTING.md), [License](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/license.md)
+### misc: [future ideas/development, issues](https://github.com/FriendsOfSilverStripe/upgrade-path/issues), [contributing](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/CONTRIBUTING.md), [license](https://github.com/FriendsOfSilverStripe/upgrade-path/blob/master/license.md)
 
 made with :coffee:
