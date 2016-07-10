@@ -1,3 +1,5 @@
+# Find out which modules keep you from upgrading SilverStripe
+
 [![SilverStripe upgrade path](https://cdn.rawgit.com/FriendsOfSilverStripe/upgrade-path/master/docs/example.png)](https://github.com/FriendsOfSilverStripe/upgrade-path "A screenshot says more than words.")
 
 [![Build Status](https://api.travis-ci.org/FriendsOfSilverStripe/upgrade-path.svg?branch=master)](https://travis-ci.org/FriendsOfSilverStripe/upgrade-path)
