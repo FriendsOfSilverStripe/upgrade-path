@@ -94,7 +94,7 @@ class UpgradePath extends BuildTask
                 $releaseAsNumber = $releaseAsNumber . str_repeat('0', 10 - strlen($releaseAsNumber));
 
                 // check if this is actual an upgrade. Still could be a downgrade.
-                if($releaseAsNumber < $limitationAsNumber) {
+                if ($releaseAsNumber < $limitationAsNumber) {
                     return 'This would be a downgrade.';
                 }
                 if ($releaseAsNumber > $limitationAsNumber) {
